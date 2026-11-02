@@ -10,7 +10,7 @@ Caike Roberto de Souza Hollo
 RM: 568104
 
 > Disciplina: Disruptive Architectures: IoT, IoB & Generative IA — Sprint 1
-> Proposta **conceitual**: não há implementação nesta etapa. Modelos de sensores e protocolos são sugestões a validar com o grupo.
+> Proposta **conceitual**
 
 **Vídeo (YouTube, Vídeo explicação - Nuclear Case / challenge fiap sprint 1):** https://youtu.be/6oCqtEcoEGw?si=CWF6p-h5rhCz04QU
 
